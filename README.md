@@ -9,4 +9,5 @@
 <br/>
 
 * First fold (train-original, test-original) acc is 99.91%
-
+* Second fold (train-original, test-original) acc is 99.96%
+* train-original, test-original images acc is 99.93%
